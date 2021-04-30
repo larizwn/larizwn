@@ -2,7 +2,7 @@
 
 #### Seja bem vindo! Meu nome é Larissa Soares de Almeida, sou do Brasil e pretendo seguir na área de TI.
 
-📍 - São Paulo
+📍 - São Paulo/SP
 
 
 📚 - Cursando Técnico em Desenvolvimento de Sistemas 
