@@ -5,7 +5,6 @@
 
 📍 - São Paulo/SP
 
-
 📚 - Cursando Técnico em Desenvolvimento de Sistemas 
 
 <img src="/logo.png" alt="logo" height="280px" position="absolute"/> 
