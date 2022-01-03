@@ -1,7 +1,5 @@
 ## Hello World!
 
-#### 💻 - Cursando Técnico em Desenvolvimento de Sistemas
-
 <div>
   <a href="https://github.com/larizwn">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larizwn&layout=compact&langs_count=7&theme=radical"/>
